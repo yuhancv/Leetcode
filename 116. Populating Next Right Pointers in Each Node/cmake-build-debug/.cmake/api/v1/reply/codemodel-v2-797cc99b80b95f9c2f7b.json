@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "116__Populating_Next_Right_Pointers_in_Each_Node",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "116__Populating_Next_Right_Pointers_in_Each_Node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-116__Populating_Next_Right_Pointers_in_Each_Node-Debug-c44fd258d0a8367dbcc4.json",
+					"name" : "116__Populating_Next_Right_Pointers_in_Each_Node",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yuhan/Desktop/leetcode/116. Populating Next Right Pointers in Each Node/cmake-build-debug",
+		"source" : "C:/Users/yuhan/Desktop/leetcode/116. Populating Next Right Pointers in Each Node"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
