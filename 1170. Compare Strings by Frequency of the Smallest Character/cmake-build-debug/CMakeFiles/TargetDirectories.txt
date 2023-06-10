@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/leetcode/1170. Compare Strings by Frequency of the Smallest Character/cmake-build-debug/CMakeFiles/1170__Compare_Strings_by_Frequency_of_the_Smallest_Character.dir
+C:/Users/yuhan/Desktop/leetcode/1170. Compare Strings by Frequency of the Smallest Character/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/leetcode/1170. Compare Strings by Frequency of the Smallest Character/cmake-build-debug/CMakeFiles/rebuild_cache.dir

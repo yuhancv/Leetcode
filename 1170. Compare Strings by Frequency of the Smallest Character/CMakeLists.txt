@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(1170__Compare_Strings_by_Frequency_of_the_Smallest_Character)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(1170__Compare_Strings_by_Frequency_of_the_Smallest_Character main.cpp)
